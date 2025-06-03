@@ -4,9 +4,10 @@ This is a simple yet fun Flutter project that simulates a dice roll. Every time 
 
 ## 📱 App Preview
 
-<img src="screenshot.png" width="300" />
+![image](https://github.com/user-attachments/assets/c78c9de8-25f2-4f92-9814-26c9ea98d2df)
 
-> You can watch the full video demo on LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:activity:7335408861236879360/)
+
+> You can watch the full video demo on LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:activity:7335616476206305281/)
 
 ## ✨ Features
 
@@ -22,7 +23,7 @@ To run this project locally:
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/Mohammed23200/flutter_application_1.git
+   git clone https://github.com/Mohammed23200/dice_for_you-.git
 Navigate to the project folder:
 
 bash
